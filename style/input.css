@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: "fira code";
+    src: url("https://github.com/MinimumADHD/php_informatica_5di_2024-2025/raw/refs/heads/main/fonts/FiraCode-Regular.woff2") format("woff2");
+}
+
+@theme {
+    --font-fira: "fira code"
+}
