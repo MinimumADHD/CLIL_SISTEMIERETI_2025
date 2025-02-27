@@ -5,6 +5,16 @@
     src: url("https://raw.githubusercontent.com/MinimumADHD/php_informatica_5di_2024-2025/refs/heads/main/fonts/FiraCode-Regular.woff2") format("woff2");
 }
 
+@font-face {
+    font-family: "clacon2";
+    src: url("https://raw.githubusercontent.com/MinimumADHD/php_informatica_5di_2024-2025/refs/heads/main/fonts/clacon2.woff2") format("woff2");
+}
+
 @theme {
-    --font-fira: "fira code"
+    --font-fira: "fira code";
+    --font-clacon: "clacon2";
+    --color-dookie-yellowish: #f8d878;
+    --color-dookie-yellow: #ac7c00;
+    --color-dookie-red: #a6372b;
+    --color-dookie-marron: #5e3901;
 }
